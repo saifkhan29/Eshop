@@ -49,6 +49,7 @@
           margin: 0 5px;
           a {
             color: #fff;
+            text-decoration: none;
             &:hover {
               color: orangered;
             }
@@ -64,6 +65,7 @@
         display: flex;
         color: #fff;
         position: relative;
+        text-decoration: none;
         &:hover {
           color: orangered;
         }
@@ -89,6 +91,7 @@
       .links a {
         margin: 0 5px;
         color: #fff;
+        text-decoration: none;
         &:hover {
           color: orangered;
         }
